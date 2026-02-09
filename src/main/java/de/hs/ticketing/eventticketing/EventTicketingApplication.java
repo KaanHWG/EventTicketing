@@ -8,6 +8,8 @@ public class EventTicketingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EventTicketingApplication.class, args);
+		
+		//Test
 	}
 
 }
